@@ -9,8 +9,7 @@
 
             MyClass myObj = new MyClass();
 
-            myObj.MyMethod();
-            myObj.Age = 30;
+            myObj.CreatePerson();
 
         }
 
